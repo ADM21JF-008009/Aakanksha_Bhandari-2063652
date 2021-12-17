@@ -18,7 +18,7 @@ CREATE SCHEMA IF NOT EXISTS `truyum` DEFAULT CHARACTER SET utf8 COLLATE utf8_gen
 USE `truyum` ;
 
 -- -----------------------------------------------------
--- Table `truyum`.`user`
+-- Table `truyum`.`user` 
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `truyum`.`user` (
   `us_id` INT NOT NULL AUTO_INCREMENT,
